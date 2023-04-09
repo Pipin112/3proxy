@@ -17,7 +17,7 @@ Change authentication!!!
 	
 Sample .proxyauth
 
-    johndoe:CL:johndoepassword123
+    pipinuhq:CL:pipin
 
 Change HTTP/SOCKS port, default is 9999 (HTTP) and 8088 (SOCKS)
 
